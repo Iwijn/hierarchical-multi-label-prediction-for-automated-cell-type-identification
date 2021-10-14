@@ -2,5 +2,5 @@
 
 # Hierarchical, multi-label prediction for automated cell type identification
 
-### Klaas Goethals en Iwijn Voeten
+### Klaas Goethals and Iwijn Voeten
 
