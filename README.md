@@ -1,3 +1,6 @@
-#Project machine learing
+## Project machine learing
 
-## Klaas Goethals en Iwijn Voeten
+# Hierarchical, multi-label prediction for automated cell type identification
+
+### Klaas Goethals en Iwijn Voeten
+
