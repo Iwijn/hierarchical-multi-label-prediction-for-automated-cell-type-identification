@@ -18,4 +18,6 @@ Week 13:​ submission of the project report and code on Ufora
 
 ### colaborative:
 # port forward on port 8888
-# jupyter lab command: jupyter-lab --collaborative --port=8888 --ip=0.0.0.0
+```
+alias jupyter-colab="jupyter-lab --collaborative --port=8888 --ip=0.0.0.0 --ServerApp.password='argon2:\$argon2id\$v=19\$m=10240,t=10,p=8\$vXBbTolcNr+BuyBggEBjCg\$ZLiqVTLZRn6Petn/vgNzzQ' --ServerApp.password_required=True -y"
+```
